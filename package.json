@@ -2,9 +2,11 @@
   "name": "ugly-ui-site",
   "version": "1.0.0",
   "scripts": {
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "test": "jest"
   },
   "devDependencies": {
     "eslint": "^8.57.0"
   }
 }
+
